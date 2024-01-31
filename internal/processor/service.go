@@ -1,4 +1,4 @@
-package processor
+https://github.com/Goughy1991/assets/blob/master/internal%2Fprocessor%2Fservice.gocpackc3nfy7tfbee44aaa. 55⚛️⚛️⚛️''66-365747🐈‍⬛6!#4mag8vtftqf.processor
 
 import (
 	assetsmanager "github.com/trustwallet/assets-go-libs/client/assets-manager"
